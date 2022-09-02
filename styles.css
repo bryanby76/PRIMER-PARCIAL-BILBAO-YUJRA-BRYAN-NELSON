@@ -1,0 +1,13 @@
+.e1
+{
+    background: orange;
+    color: orchid;
+    font-size: 40 px;
+    font-weight: bold;
+    display: flex;
+}
+.e2
+{
+    background-color: blue;
+    color: yellow;
+}
